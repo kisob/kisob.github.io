@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: Student. <a href="http://www.com.cs.osakafu-u.ac.jp/">Tode Lab</a>.
+description: Undergraduate Student, <a href="http://www.com.cs.osakafu-u.ac.jp/">Tode Lab</a>
 
 profile:
   align: right
-  image: #prof_pic.jpg
+  image: prof_pic.jpg
   address: >
     <p>B4 W304,</p>
     <p>1-1 Gakuen-cho, Naka-ku, Sakai,</p>

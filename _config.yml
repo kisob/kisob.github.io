@@ -12,7 +12,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-icon: 🔥 # the emoji used as the favicon
+icon: 🔒 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -47,22 +47,22 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: kisob # your GitHub user name
+github_username: k1s0b3 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: kisobe # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+twitter_username: k1s0b3 # your Twitter handle
+linkedin_username: k1s0b3 # your LinkedIn user name
+scholar_userid: LsttsOwAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-0029-0282 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: http://www.com.cs.osakafu-u.ac.jp/ # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
-codeberg_username: kisobe
+codeberg_username: k1s0b3
 
 contact_note:
 
