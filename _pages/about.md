@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Undergraduate Student, <a href="http://www.com.cs.osakafu-u.ac.jp/">Tode Lab</a>
+description: Graduate Student, <a href="http://www.com.cs.osakafu-u.ac.jp/">Tode Lab</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <h2>education</h2>
-<i class="fas fa-graduation-cap" style="font-size: 20px; padding:10px;"></i> B.S. in engineering, **Osaka Prefecture University**, 2022 (expected)
+<i class="fas fa-graduation-cap" style="font-size: 20px; padding:10px;"></i> B.S. in engineering, **Osaka Prefecture University**, 2022
 
 
 <h2>skills</h2>
