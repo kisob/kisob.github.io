@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Graduate Student, <a href="http://www.com.cs.osakafu-u.ac.jp/">Tode Lab</a>
+description: Graduate Student, <a href="https://tode-lab.github.io/">Tode Lab</a>
 
 profile:
   align: right
