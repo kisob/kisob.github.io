@@ -58,10 +58,10 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: http://www.com.cs.osakafu-u.ac.jp/ # work page URL
+work_url: https://tode-lab.github.io/ # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
+dblp_url: https://dblp.org/pid/319/8493.html # your DBLP profile url
 codeberg_username: k1s0b3
 telegram_username: k1s0b3
 
@@ -154,7 +154,7 @@ scholar:
   last_name: Einstein
   first_name: [Albert, A.]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
