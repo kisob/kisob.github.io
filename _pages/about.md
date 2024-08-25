@@ -6,7 +6,7 @@ description: Doctoral Student, <a href="https://team.inria.fr/resist/">RESIST Te
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   address: >
     <p>615, rue du Jardin Botanique</p>
     <p>54600 Villers-lès-Nancy, France</p>
