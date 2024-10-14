@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Doctoral Student, <a href="https://team.inria.fr/resist/">RESIST Team</a>
+description: PhD Student, <a href="https://team.inria.fr/resist/">RESIST Team</a>, <a href="https://www.inria.fr/en">Inria</a>, France
 
 profile:
   align: right
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <h2>education</h2>
-<i class="fas fa-graduation-cap" style="font-size: 20px; padding:10px;"></i> Doctoral Student, **University of Lorraine**, Oct 2024 - Sep 2027 (Expected)
+<i class="fas fa-graduation-cap" style="font-size: 20px; padding:10px;"></i> PhD Student, **University of Lorraine**, Oct 2024 - Sep 2027 (Expected)
 <br>
 <i class="fas fa-graduation-cap" style="font-size: 20px; padding:10px;"></i> M.S. in informatics, **Osaka Metropolitan University**, 2024
 <br>
@@ -26,3 +26,5 @@ social: true  # includes social icons at the bottom of the page
 
 <h2>jobs</h2>
 <i class="fas fa-briefcase" style="font-size: 20px; padding:10px;"></i> Pre-doctoral Researcher (Relai Thèse, CDD), **Inria**, June 2024 - Sep 2024
+<br>
+<i class="fas fa-briefcase" style="font-size: 20px; padding:10px;"></i> Doctoral Researcher, **Inria**, Oct 2024 - Sep 2027
