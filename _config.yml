@@ -49,14 +49,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: k1s0b3 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: k1s0b3 # your Twitter handle
+x_username: k1s0b3 # your X handle
 linkedin_username: k1s0b3 # your LinkedIn user name
 scholar_userid: LsttsOwAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-0029-0282 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Katsuki-Isobe # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: https://team.inria.fr/resist/ # work page URL
 keybase_username: # your keybase user name
@@ -64,6 +64,7 @@ wikidata_id: # your wikidata id
 dblp_url: https://dblp.org/pid/319/8493.html # your DBLP profile url
 codeberg_username: k1s0b3
 telegram_username: k1s0b3
+semanticscholar_id: Katsuki-Isobe/2137022861 # your Semantic Scholar ID
 
 contact_note:
 
