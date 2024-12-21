@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD Student, <a href="https://team.inria.fr/resist/">RESIST Team</a>, <a href="https://www.inria.fr/en">Inria</a>, France
+description: PhD Student, <a href="https://team.inria.fr/resist/">RESIST Team</a>, <a href="https://www.inria.fr/en">Inria</a>, <a href="https://www.loria.fr/en/">Loria</a>, France
 
 profile:
   align: right
