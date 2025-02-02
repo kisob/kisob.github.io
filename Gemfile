@@ -12,4 +12,5 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'kramdown-parser-gfm'
+    gem "uri", ">= 1.0.2"
 end
